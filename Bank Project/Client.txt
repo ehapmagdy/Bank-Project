@@ -1,0 +1,8 @@
+1&Ali&Ali369&2700
+2&Mohamed&Mohamed774&18000
+3&Omar&Omar309&10000
+4&Tarek&Tarek335&9400
+5&Karim&Karim959&21100
+6&Ahmed&Ahmed308&6000
+7&Youssef&Youssef244&6300
+8&Hassan&Hassan455&10900
