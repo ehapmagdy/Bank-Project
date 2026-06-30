@@ -1,8 +1,0 @@
-1&Hassan&Hassan717&7500
-2&Amr&Amr251&10500
-3&Mostafa&Mostafa971&9000
-4&Ahmed&Ahmed266&6000
-5&Mohamed&Mohamed271&11000
-6&Karim&Karim126&11750
-7&Hany&Hany781&6250
-8&Youssef&Youssef558&10750
