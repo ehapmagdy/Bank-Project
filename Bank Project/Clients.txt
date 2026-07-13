@@ -1,9 +1,0 @@
-1&Ali&Ali369456&3700
-2&Mohamed&Mohamed774&20000
-3&Omar&Omar30911&10000
-4&Tarek&Tarek3135&9400
-5&Karim&Karim9159&21100
-6&Ahmed&Ahmed3018&6000
-7&Youssef&Youssef244&6300
-8&Hassan&Hassan455&109009
-99&Captin Egypt&Cap123456&5000
